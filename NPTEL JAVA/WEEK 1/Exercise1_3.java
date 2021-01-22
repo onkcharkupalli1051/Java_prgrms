@@ -6,16 +6,25 @@ public class Exercise1_3 {
 
         int n = sc.nextInt();
         int sum = 0;
-        int array[n];
 
-        for(int i=0; i<n; i++){
-            if(i%2==0 && i%3==0) {
-                sum += i;
+        int count = 0;
+        int i = 0;
+
+        while(count < n) {
+            if(i%2==0){
+                count += 1;
+                if(i%3 == 0) {
+                    sum += i;
+                    i += 1;
+                }
+                else{
+                    i+=1;
+                }
             }
-
+            else{
+                i+=1;
+            }
         }
-
         System.out.println(sum);
         }
     }
-}
