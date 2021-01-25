@@ -24,6 +24,6 @@ class Constructor1{
 
         System.out.println("Circumference of C1 : "+C1.circum()+", Area of C1 : "+C1.area());
         System.out.println("Circumference of C2 : "+C2.circum()+", Area of C2 : "+C2.area());
-        
+
     }
 }
