@@ -4,6 +4,7 @@ public class factorial_recursion {
     static double n;
     Scanner s = new Scanner(System.in);
     System.out.println("Enter n : ");
+    UserInput input = new UserInput();
     n = s.nextDouble();
 
     static double factorial(double n)
