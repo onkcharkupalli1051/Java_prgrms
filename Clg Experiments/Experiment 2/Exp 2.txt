@@ -1,0 +1,192 @@
+Experiment 1 : 
+
+1. WAP in java for Addition, Subtraction, multiplication and division of numbers.
+
+2. WAP to calculate Simple Interest.
+
+3. WAP to display Factorial of given Number.
+
+4. WAP to display N Prime numbers.
+
+5. WAP to display Fibonacci series upto n.
+
+6. Program to convert Temperature from celsius to fahrenheit.
+
+
+
+//1. WAP in java for Addition, Subtraction, multiplication and division of numbers.
+
+import java.util.*;
+
+class Program1{
+    public static void main(String[] args) {
+        int n1,n2,result;
+        Scanner s = new Scanner(System.in);
+
+        System.out.print("Enter First Number : ");
+        n1 = s.nextInt();
+
+        System.out.print("\nEnter Second Number : ");
+        n2 = s.nextInt();
+
+        result = n1 + n2;
+        System.out.println("Addition : "+result);
+
+        result = n1-n2;
+        System.out.println("Subtraction : "+result);
+
+        result = n1*n2;
+        System.out.println("Multiplication : "+result);
+
+        result = n1/n2;
+        System.out.println("Division : "+result);
+    }
+}
+
+O/p :
+Enter First Number : 50
+
+Enter Second Number : 10
+Addition : 60
+Subtraction : 40
+Multiplication : 500
+Division : 5
+
+//2. WAP to calculate Simple Interest.
+
+import java.util.Scanner;
+
+public class Program2 {
+    public static void main(String[] args) {
+        double pA, rOI, nOY, sI;
+        Scanner s = new Scanner(System.in);
+
+        System.out.print("Enter Principal Amount : ");
+        pA = s.nextInt();
+
+        System.out.print("Enter Rate Of Interest : ");
+        rOI = s.nextInt();
+
+        System.out.print("Enter Number Of Years : ");
+        nOY = s.nextInt();
+
+        sI = pA*nOY*rOI;
+        System.out.println("Simple Interest : "+sI);
+    }
+}
+
+O/P : 
+Enter Principal Amount : 10000
+Enter Rate Of Interest : 2
+Enter Number Of Years : 1
+Simple Interest : 20000.0
+
+//3. WAP to display Factorial of given Number.
+
+import java.util.Scanner;
+public class Program3 {
+  public static void main(String[] args) {
+    Scanner s = new Scanner(System.in);
+    int num,i;
+
+    System.out.print("Enter number : ");
+    num = s.nextInt();
+
+    for(i=num-1;i>0;i--)
+    {
+        num *= i;
+    }
+    
+    System.out.print("Factorial = "+num);
+  }  
+}
+
+O/p : 
+Enter number : 10
+Factorial = 3628800
+
+//4. WAP to display N Prime numbers.
+import java.util.Scanner;
+
+public class Program4 {
+    public static void main(String[] args) {
+        int num,i;
+        Scanner s = new Scanner(System.in);
+        System.out.println("Enter num/limit :");
+        num = s.nextInt();
+
+        System.out.println("Prime Numbers : ");
+        for(i=2;i<=num;i++)
+        {
+            int count = 0;
+            for(int j = 2;j<=i;j++)
+            {
+                if(i%j == 0)
+                {
+                    count++;
+                }
+            }
+            if(count == 1)
+            {
+                System.out.print(i+ " ");
+            }
+        }
+    }
+}
+
+o/p : 
+Enter num/limit :
+10
+Prime Numbers :
+2 3 5 7
+
+
+//5. WAP to display Fibonacci series upto n.
+import java.util.Scanner;
+
+public class Program4 {
+    public static void main(String[] args) {
+        int num,a = 0,b = 1,c;
+        Scanner s = new Scanner(System.in);
+
+        System.out.println("Enter num/limit :");
+        num = s.nextInt();
+
+        System.out.print("Fibonacci Series : ");
+        System.out.print(a+" "+b+" ");
+        for(int i=0;i<num;i++)
+        {
+            c = a + b;
+            System.out.print(c+" ");
+            a = b;
+            b = c;
+        }
+        
+    }
+}
+
+O/p : 
+Enter num/limit :
+10
+Fibonacci Series : 0 1 1 2 3 5 8 13 21 34 55 89
+
+//6. Program to convert Temperature from celsius to fahrenheit.
+import java.util.Scanner;
+
+public class Program6 {
+    public static void main(String[] args) {
+        float tc,tf;
+        Scanner s = new Scanner(System.in);
+
+        System.out.print("Enter temperature in Celsius : ");
+        tc = s.nextInt();
+
+        tf = (tc*9)/5 + 32;
+        System.out.println("Temperature in Fahrenheit : "+tf);
+    }
+}
+
+O/p : 
+Enter temperature in Celsius : 32
+Temperature in Fahrenheit : 89.6
+
