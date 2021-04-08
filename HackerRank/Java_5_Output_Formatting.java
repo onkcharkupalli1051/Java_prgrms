@@ -15,7 +15,5 @@ public class Java_5_Output_Formatting {
             //3d : integer minimum field width 3
         }
         System.out.println("================================");
-
-
     }
 }
