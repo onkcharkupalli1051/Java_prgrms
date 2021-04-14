@@ -6,6 +6,6 @@ public class Java_9_EOF {
     while(s.hasNext())
     {
         count++;
-        Systen.out.println(count+" "+s.nextLine());
+        System.out.println(count+" "+s.nextLine());
     }
 }
