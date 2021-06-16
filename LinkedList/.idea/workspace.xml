@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2ccb16e-43fb-45ca-aebc-463985629efb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/arrayAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/challenge/mobilePhone/Contacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/challenge/mobilePhone/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/minimumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/reverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Autoboxing_Unboxing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Autoboxing_Unboxing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Autoboxing_Unboxing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Autoboxing_Unboxing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Autoboxing_Unboxing/Autoboxing_Unboxing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Autoboxing_Unboxing/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Inheritance_encapsulation/Challenge_Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_LinkedList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_LinkedList/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_LinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_LinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_LinkedList/Challenge_LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_LinkedList/src/com/onkar/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_LinkedList/src/com/onkar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_LinkedList/src/com/onkar/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/Challenge_Room.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/src/com/room/bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/src/com/room/ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/src/com/room/cupBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/src/com/room/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/src/com/room/room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/src/com/room/wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_polymorphism/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_polymorphism/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_polymorphism/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_polymorphism/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_polymorphism/Challenge_polymorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_polymorphism/src/com/challenge/polymorphism/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/Class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/src/com/timbuchalka/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/src/com/timbuchalka/account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/Composition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/timbuchalka/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/timbuchalka/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/timbuchalka/scorpio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/timbuchalka/vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/onkar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS MASTER CHALLENGE/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS MASTER CHALLENGE/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS MASTER CHALLENGE/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS MASTER CHALLENGE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS MASTER CHALLENGE/OOPS MASTER CHALLENGE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS MASTER CHALLENGE/src/oops_master_challenge/hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS MASTER CHALLENGE/src/oops_master_challenge/healthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS MASTER CHALLENGE/src/oops_master_challenge/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project Contact/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project Contact/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project Contact/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project Contact/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project Contact/Project Contact.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project Contact/src/com/onkar/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project Contact/src/com/onkar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project Contact/src/com/onkar/MobilePhone.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1tABRdEBiEBV6WirK30Sf74dJJ8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.onkar.Main" />
+      <module name="LinkedList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.onkar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2ccb16e-43fb-45ca-aebc-463985629efb" name="Default Changelist" comment="" />
+      <created>1622202055189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622202055189</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

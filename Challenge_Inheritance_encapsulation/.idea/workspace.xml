@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01d21f97-8f10-419f-868a-7395b5f044e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge_Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/encapsulation/challenge/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/encapsulation/challenge/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/Challenge_Room.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/src/com/room/bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/src/com/room/ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/src/com/room/cupBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/src/com/room/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/src/com/room/room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenge_Room/src/com/room/wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/Class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/src/com/timbuchalka/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class/src/com/timbuchalka/account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/Composition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/composition/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/timbuchalka/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/timbuchalka/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/timbuchalka/scorpio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/timbuchalka/vehicle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1syeRyZMHJ4GZFg0rB8adani0bX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.encapsulation.challenge.main" />
+      <module name="Challenge_Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.encapsulation.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01d21f97-8f10-419f-868a-7395b5f044e7" name="Default Changelist" comment="" />
+      <created>1621849254401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621849254401</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
